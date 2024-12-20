@@ -1,7 +1,7 @@
 ## Hola Soy Diego Marcelo Henriquez Hurtado 👋
 
 ### 🛠 &nbsp;Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,idea,androidstudio,py,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,mysql,idea,androidstudio,py,linux)]()
 
 ### ⚙️ &nbsp;GitHub Analytics
 
